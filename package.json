@@ -1,0 +1,30 @@
+{
+  "name": "lan-group-chat",
+  "version": "1.0.0",
+  "description": "local area network chat box",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venkatanaidum/lan-group-chat.git"
+  },
+  "keywords": [
+    "lan",
+    "communication",
+    "chat",
+    "node"
+  ],
+  "author": "venkata naidu m",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/venkatanaidum/lan-group-chat/issues"
+  },
+  "homepage": "https://github.com/venkatanaidum/lan-group-chat#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
